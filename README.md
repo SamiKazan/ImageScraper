@@ -5,9 +5,9 @@ ImageScraper to easily download sets of images from  https://radiopaedia.org <br
 Note: script only works for https://radiopaedia.org
 
 <h2>Dependancies: </h2>
-Node.js 
-Puppeteer
-Axios
+Node.js </br>
+Puppeteer</br>
+Axios</br>
 
 Install instructions for Node.js can be found here: https://nodejs.org/en/download<br>
 
