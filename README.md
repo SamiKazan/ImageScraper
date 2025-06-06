@@ -12,13 +12,14 @@ Axios
 Install instructions for Node.js can be found here: https://nodejs.org/en/download<br>
 
 
-<h2>Initialisation steps</h2>
-1. Install Node.js
-2. Navigate to the project directory
-3. Run "npm init"
-4. Run "npm install puppeteer axios"
-5. Run the script with "node index.js"
-6. Paste the url of the page into terminal once prompted
+## Initialisation steps
+
+1. Install Node.js  
+2. Navigate to the project directory  
+3. Run `npm init`  
+4. Run `npm install puppeteer axios`  
+5. Run the script with `node index.js`  
+6. Paste the URL of the page into terminal once prompted  
 
 Images can be found in the images folder of the project
 
