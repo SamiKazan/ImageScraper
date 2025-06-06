@@ -1,0 +1,18 @@
+{
+  "name": "kuvavarastaja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "minä",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "puppeteer": "^23.10.1"
+  },
+  "type": "module",
+  "types": "module"
+}
